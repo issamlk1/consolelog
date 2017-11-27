@@ -36,7 +36,7 @@ npm i console.log.shortcut
 then 
 
 ```
-require('consolelog');
+require('console.log.shortcut');
 ```
 
 
