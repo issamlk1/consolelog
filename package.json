@@ -1,6 +1,6 @@
 {
-    "name": "consolelog",
-    "version": "0.0.1-a",
+    "name": "console.log.shortcut",
+    "version": "0.0.1-b",
     "description": "Simple plugin that help you to forget about typo errors in console.log and just replace it with cl(data)",
     "main": "index.js",
     "repository": {

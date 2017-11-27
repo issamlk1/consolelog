@@ -30,7 +30,7 @@ You can just install it from npm and require it
 npm command 
 
 ```
-npm i consolelog
+npm i console.log.shortcut
 ```
 
 then 
